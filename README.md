@@ -1,4 +1,4 @@
-# Movie Rating Datasets
+# CSP Dataset (Cold-Start Problem)
 
 In this repository you can find a dataset used for creating and evaluating recommender systems that have to deal with cold start problem.
 
